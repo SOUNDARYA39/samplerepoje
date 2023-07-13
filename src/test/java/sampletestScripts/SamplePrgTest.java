@@ -2,12 +2,13 @@ package sampletestScripts;
 
 import org.testng.annotations.Test;
 
-public class SamplePrg {
+public class SamplePrgTest {
 	
 	@Test
 	public void m1()
 	{
 		System.out.println("hello");
+		System.out.println("SOUNDARYA");
 	}
 	
 	@Test
